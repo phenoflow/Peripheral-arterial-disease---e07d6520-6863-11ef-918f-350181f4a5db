@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/peripheral---icduncat.py
+inputModule3:
+  class: File
+  path: python/peripheral-arterial-disease-angiography---icduncat.py
+inputModule4:
+  class: File
+  path: python/stent-peripheral-arterial-disease---icduncat.py
+inputModule5:
+  class: File
+  path: python/peripheral-arterial-disease-intervention---icduncat.py
+inputModule6:
+  class: File
+  path: python/peripheral-arterial-disease-amputation---icduncat.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
